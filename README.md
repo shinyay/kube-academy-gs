@@ -1,6 +1,6 @@
-# Name
+# Getting started with KubeAcademy
 
-Overview
+- [KubeAcademy](https://kube.academy/)
 
 ## Description
 
